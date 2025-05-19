@@ -2,7 +2,7 @@
 # 📓 Notes App
 
 Welcome to the **Notes App** — a simple, intuitive, and powerful note-taking application built with **React**. Whether you're jotting down quick reminders or managing detailed information, this app makes it easy to create, view, edit, and delete notes — all with persistent storage using your browser's **Local Storage**.
-
+[live](https://google-notes-in-react.vercel.app/)
 ---
 
 ## ✨ Features
