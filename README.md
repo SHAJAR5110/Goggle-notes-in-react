@@ -86,10 +86,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 💬 Feedback
 
-If you have any feedback or suggestions, feel free to reach out via GitHub Issues.
-
-```
 
 
